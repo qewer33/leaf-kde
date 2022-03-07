@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Leaf
+Comment=A forest green theme
+X-KDE-PluginInfo-Author=qewer33
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=qewer33@protonmail.com
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=tide-dark
+X-KDE-PluginInfo-Version=0.1.1
+X-KDE-PluginInfo-Website=https://qewer.dev
+X-Plasma-API=5.0
+
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=0.4
+saturation=1.7
