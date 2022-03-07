@@ -2,6 +2,10 @@
 
 **NOTE: Currently unfinished and not uploaded to the KDE Store**
 
+
+
+![preview.png](https://github.com/qewer33/leaf-kde/blob/main/preview.png?raw=true)
+
 **Leaf** is a green accent, forest colored light & dark global theme set for KDE Plasma. It includes the following components:
 
 - Global Themes (lookandfeel)
@@ -35,8 +39,6 @@ Credits:
 - Breeze Cursors
 
 - Papirus Icon Theme
-
-![preview.png](https://github.com/qewer33/leaf-kde/blob/main/preview.png?raw=true)
 
 ![preview-dark.png](https://github.com/qewer33/leaf-kde/blob/main/preview-dark.png?raw=true)
 
