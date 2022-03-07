@@ -36,8 +36,8 @@ Credits:
 
 - Papirus Icon Theme
 
-![preview.png](/home/qewer33/Desktop/PlasmaDev/Themes/Leaf-KDE/preview.png)
+![preview.png](https://github.com/qewer33/leaf-kde/blob/main/preview.png?raw=true)
 
-![preview-dark.png](/home/qewer33/Desktop/PlasmaDev/Themes/Leaf-KDE/preview-dark.png)
+![preview-dark.png](https://github.com/qewer33/leaf-kde/blob/main/preview-dark.png?raw=true)
 
-![preview-light.png](/home/qewer33/Desktop/PlasmaDev/Themes/Leaf-KDE/preview-light.png)
+![preview-light.png](https://github.com/qewer33/leaf-kde/blob/main/preview-light.png?raw=true)
