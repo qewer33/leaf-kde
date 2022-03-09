@@ -2,13 +2,11 @@
 
 **NOTE: Currently unfinished and not uploaded to the KDE Store**
 
-
-
 ![preview.png](https://github.com/qewer33/leaf-kde/blob/main/preview.png?raw=true)
 
 **Leaf** is a green accent, forest colored light & dark global theme set for KDE Plasma. It includes the following components:
 
-- Global Themes (lookandfeel)
+- Global Themes (look-and-feel)
 
 - Plasma Theme (desktoptheme)
 
@@ -28,7 +26,7 @@ And the global theme uses the following external components:
 
 - Papirus Icon Theme
 
-You can install the theme from the KDE Store and Plasma's "Get New" dialogs. Or you can install all of the theme components by cloning the repo and running `install.sh`
+You can install the theme from the KDE Store and Plasma's "Get New" dialogs. Or you can install all of the theme components by cloning the repo and running `./install.rb` (need to have `ruby` installed)
 
 made by **qewer33**
 
