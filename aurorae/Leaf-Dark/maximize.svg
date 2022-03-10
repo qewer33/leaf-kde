@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="maximize.svg"
+   inkscape:version="1.2-alpha1 (b6a15bb, 2022-02-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs35" />
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="47.542373"
+     inkscape:cy="10.118644"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31" />
+  <g
+     id="active-center"
+     transform="scale(1.0909091)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect2" />
+    <path
+       style="fill:#dfdfdf"
+       d="m 10.999999,8.25 c 1.527778,1.833333 3.055556,3.666667 4.583334,5.5 -3.055556,0 -6.1111108,0 -9.1666663,0 1.527778,-1.833333 3.0555552,-3.666666 4.5833323,-5.5 z"
+       id="path4" />
+  </g>
+  <g
+     id="hover-center"
+     transform="matrix(1.0909091,0,0,1.0909091,-1.0909091,0)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="23"
+       y="0"
+       id="rect7" />
+    <circle
+       style="opacity:0.08;fill:#ffffff"
+       cx="34"
+       cy="11"
+       r="11"
+       id="circle9" />
+    <path
+       style="fill:#dfdfdf"
+       d="M 34.000002,8.2500001 38.583333,13.75 h -9.166666 z"
+       id="path11" />
+  </g>
+  <g
+     id="pressed-center"
+     transform="matrix(1.0909091,0,0,1.0909091,-2.1818182,0)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="46"
+       y="0"
+       id="rect14" />
+    <circle
+       style="opacity:0.19;fill:#ffffff"
+       cx="57"
+       cy="11"
+       r="11"
+       id="circle16" />
+    <path
+       style="fill:#dfdfdf"
+       d="m 57,8.2500001 c 1.527777,1.8333339 3.055555,3.6666669 4.583333,5.4999999 -3.055556,0 -6.111111,0 -9.166667,0 C 53.944445,11.916667 55.472222,10.083334 57,8.2500001 Z"
+       id="path18" />
+  </g>
+  <g
+     id="inactive-center"
+     transform="matrix(1.0909091,0,0,1.0909091,-3.2727273,0)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="69"
+       y="0"
+       id="rect21" />
+    <path
+       style="opacity:0.5;fill:#dfdfdf"
+       d="m 80,8.2500001 c 1.527778,1.8333329 3.055556,3.6666669 4.583333,5.4999999 -3.055555,0 -6.111111,0 -9.166666,0 C 76.944445,11.916667 78.472222,10.083333 80,8.2500001 Z"
+       id="path23" />
+  </g>
+  <g
+     id="deactivated-center"
+     transform="matrix(1.0909091,0,0,1.0909091,-4.3636364,0)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="92"
+       y="0"
+       id="rect26" />
+    <path
+       style="opacity:0.5;fill:#dfdfdf"
+       d="M 103,8.2500001 107.58333,13.75 h -9.166662 z"
+       id="path28" />
+  </g>
+</svg>
