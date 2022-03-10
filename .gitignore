@@ -1,2 +1,2 @@
- build/
- .directory
+.directory
+ build/*
