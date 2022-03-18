@@ -6,21 +6,21 @@
 
 **Leaf** is a green accent, forest colored light & dark global theme set for KDE Plasma. It includes the following components:
 
-- Global Themes (look-and-feel)
+- [x]  Global Themes (look-and-feel)
 
-- Plasma Theme (desktoptheme)
+- [x]  Plasma Theme (desktoptheme)
 
-- Color Schemes (color-schemes)
+- [x]  Color Schemes (color-schemes)
 
-- Titlebar Theme (aurorae)
+- [x]  Titlebar Theme (aurorae)
 
-- Wallpapers (wallpapers)
+- [x]  Wallpapers (wallpapers)
 
-- Cursor Theme (cursors)
+- [ ]  Cursor Theme (cursors)
 
-- SDDM Login Theme (sddm)
+- [ ]  SDDM Login Theme (sddm)
 
-- Konsole Theme (konsole)
+- [ ]  Konsole Theme (konsole)
 
 And the global theme uses the following external components:
 
