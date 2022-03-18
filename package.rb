@@ -8,10 +8,12 @@ COMPONENTS.each do |comp|
     puts "Packaging contents of #{comp.path} to ./build/..."
     # loop over all entriesin the component path
     Dir.entries(comp.path).each do |entry|
-        if File.directory?("#{comp.path}/#{entry}") && !entry.include?(".")
+        if File.directory?("#{comp.path}/#{entry}")
             # zip and move the zipped file to build/ if the entry is a directory
-            system("tar", "-czvf", "#{comp.name} #{entry}.tar.gz", "-C", "#{comp.path}/#{entry}/", ".")
-            FileUtils.mv("#{comp.name} #{entry}.tar.gz", "build")
+            if !entry.include?(".")
+                system("tar", "-czvf", "#{comp.name} #{entry}.tar.gz", "-C", "#{comp.path}/#{entry}/", ".")
+                FileUtils.mv("#{comp.name} #{entry}.tar.gz", "build")
+            end
         else
             # copy the file to build/ otherwise
             FileUtils.cp("#{comp.path}/#{entry}", "build")
