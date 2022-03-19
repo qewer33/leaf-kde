@@ -14,13 +14,13 @@
 
 - [x] Wallpapers (wallpapers)
 
+- [x] Latte Dock Layout (latte)
+
 - [ ] Cursor Theme (cursors)
 
 - [ ] SDDM Login Theme (sddm)
 
 - [ ] Konsole Theme (konsole)
-
-- [ ] Latte Dock Layout (latte)
 
 - [ ] Kate Color Scheme (kate)
 
