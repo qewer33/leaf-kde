@@ -6,15 +6,15 @@
 
 - [x] Global Themes (look-and-feel) [[Dark](https://store.kde.org/p/1740699)] [[Light](https://store.kde.org/p/1740701)]
 
-- [x] Plasma Theme (desktoptheme) [[Adaptive]([Leaf Desktop Theme - KDE Store](https://store.kde.org/p/1739737))]
+- [x] Plasma Theme (desktoptheme) [[Adaptive](https://store.kde.org/p/1739737)]
 
-- [x] Color Schemes (color-schemes) [[Dark]([Leaf Dark Colors - KDE Store](https://store.kde.org/p/1739715))] [[Light]([Leaf Light Colors - KDE Store](https://store.kde.org/p/1739720))]
+- [x] Color Schemes (color-schemes) [[Dark](https://store.kde.org/p/1739715)] [[Light](https://store.kde.org/p/1739720)]
 
-- [x] Titlebar Theme (aurorae) [[Dark]([Leaf Dark Aurorae Window Decoration - KDE Store](https://store.kde.org/p/1739752))] [[Light]([Leaf Light Aurorae Window Decoration - KDE Store](https://store.kde.org/p/1739758))]
+- [x] Titlebar Theme (aurorae) [[Dark](https://store.kde.org/p/1739752)] [[Light](https://store.kde.org/p/1739758)]
 
-- [x] Wallpapers (wallpapers) [[Dark]([Leaf Dark Wallpaper - KDE Store](https://store.kde.org/p/1739944))] [[Light]([Leaf Light Wallpaper - KDE Store](https://store.kde.org/p/1739945))]
+- [x] Wallpapers (wallpapers) [[Dark](https://store.kde.org/p/1739944)] [[Light](https://store.kde.org/p/1739945)]
 
-- [x] Latte Dock Layout (latte) [[Layout]([Leaf Latte Layout - KDE Store](https://store.kde.org/p/1740720))]
+- [x] Latte Dock Layout (latte) [[Layout](https://store.kde.org/p/1740720)]
 
 - [ ] Cursor Theme (cursors)
 
