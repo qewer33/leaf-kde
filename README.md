@@ -16,11 +16,11 @@
 
 - [x] Latte Dock Layout (latte) [[Layout](https://store.kde.org/p/1740720)]
 
+- [x] Konsole Theme (konsole) [[Dark](https://store.kde.org/p/1741394)] [[Light](https://store.kde.org/p/1741399)]
+
 - [ ] Cursor Theme (cursors)
 
 - [ ] SDDM Login Theme (sddm)
-
-- [ ] Konsole Theme (konsole)
 
 - [ ] Kate Color Scheme (kate)
 
