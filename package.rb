@@ -11,7 +11,12 @@ COMPONENTS.each do |comp|
         if File.directory?("#{comp.path}/#{entry}")
             # zip and move the zipped file to build/ if the entry is a directory
             if !entry.include?(".")
-                system("tar", "-czvf", "#{comp.name} #{entry}.tar.gz", "-C", "#{comp.path}/#{entry}/", ".")
+                # quick fix for aurorae themes, they need the parent folder inside the archive
+                if comp.name == "aurorae"
+                    system("tar", "-czvf", "#{comp.name} #{entry}.tar.gz", "-C", "#{comp.path}", "./#{entry}")
+                else
+                    system("tar", "-czvf", "#{comp.name} #{entry}.tar.gz", "-C", "#{comp.path}/#{entry}/", ".")
+                end
                 FileUtils.mv("#{comp.name} #{entry}.tar.gz", "build")
             end
         else

@@ -8,4 +8,5 @@
     Component.new("aurorae", "./aurorae", "#{Dir.home}/.local/share/aurorae/themes"),
     Component.new("color-schemes", "./color-schemes", "#{Dir.home}/.local/share/color-schemes"),
     Component.new("wallpapers", "./wallpapers", "#{Dir.home}/.local/share/wallpapers"),
+    Component.new("konsole-colors", "./konsole", "#{Dir.home}/.local/konsole"),
 ]
