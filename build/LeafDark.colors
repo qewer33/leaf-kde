@@ -104,7 +104,7 @@ ForegroundPositive=114,155,121
 ForegroundVisited=61,111,171
 
 [General]
-ColorScheme=FancyDarkColor
+ColorScheme=Leaf-Dark
 Name=Leaf-Dark
 shadeSortColumn=true
 
