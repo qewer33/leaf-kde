@@ -24,6 +24,10 @@
 
 - [ ] Kate Color Scheme (kate)
 
+And has the following community themes for other applications:
+
+- Leaf Neovim colorschemes (leaf.nvim) by @daschw [https://github.com/daschw/leaf.nvim]
+
 And the global theme uses the following external components:
 
 - Papirus Icon Theme
