@@ -48,7 +48,7 @@ ForegroundPositive=0,170,127
 BackgroundAlternate=41,40,42
 
 [Colors:Selection]
-BackgroundAlternate=98,134,104
+BackgroundAlternate=114,155,121
 BackgroundNormal=114,155,121
 DecorationFocus=114,155,121
 DecorationHover=114,155,121

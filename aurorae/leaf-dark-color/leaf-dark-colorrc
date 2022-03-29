@@ -1,0 +1,43 @@
+[General]
+ActiveFocusedTabColor=114, 155, 121
+ActiveTextColor=223,223,223
+ActiveTextShadowColor=255,255,255,255
+ActiveUnfocusedTabColor=114, 155, 121
+Animation=0
+InactiveFocusedTabColor=1, 17, 19
+InactiveTextColor=139,139,139
+InactiveTextShadowColor=255,255,255,255
+InactiveUnfocusedTabColor=1, 17, 19
+LeftButtons=XIA
+RightButtons=AIX
+Shadow=false
+TextShadowOffsetX=1
+TextShadowOffsetY=1
+TitleAlignment=Center
+TitleVerticalAlignment=Center
+UseTextShadow=true
+
+[Layout]
+BorderBottom=0
+BorderLeft=0
+BorderRight=0
+ButtonHeight=24
+ButtonMarginTop=0
+ButtonSpacing=2
+ButtonWidth=24
+ExplicitButtonSpacer=0
+PaddingBottom=62
+PaddingLeft=30
+PaddingRight=30
+PaddingTop=10
+TitleBorderLeft=4
+TitleBorderRight=4
+TitleEdgeBottom=4
+TitleEdgeBottomMaximized=4
+TitleEdgeLeft=4
+TitleEdgeLeftMaximized=4
+TitleEdgeRight=4
+TitleEdgeRightMaximized=4
+TitleEdgeTop=4
+TitleEdgeTopMaximized=4
+TitleHeight=12
