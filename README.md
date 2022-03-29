@@ -10,7 +10,7 @@
 
 - [x] Color Schemes (color-schemes) [[Dark](https://store.kde.org/p/1739715)] [[Light](https://store.kde.org/p/1739720)]
 
-- [x] Titlebar Theme (aurorae) [[Dark](https://store.kde.org/p/1739752)] [[Light](https://store.kde.org/p/1739758)]
+- [x] Titlebar Theme (aurorae) [[Dark](https://store.kde.org/p/1739752)] [[Light](https://store.kde.org/p/1739758)] [[Dark Color](https://store.kde.org/p/1748461)] [[Light Color](https://store.kde.org/p/1748463)]
 
 - [x] Wallpapers (wallpapers) [[Dark](https://store.kde.org/p/1739944)] [[Light](https://store.kde.org/p/1739945)]
 
