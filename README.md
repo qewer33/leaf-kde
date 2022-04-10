@@ -28,6 +28,8 @@ And has the following community themes for other applications:
 
 - [x] Neovim Color Schemes (leaf.nvim) by @daschw [https://github.com/daschw/leaf.nvim]
 
+- [x] Firefox Themes by me [[Dark](https://addons.mozilla.org/en-US/firefox/addon/leaf-dark/)] [[Light](https://addons.mozilla.org/en-US/firefox/addon/leaf-light/)]
+
 And the global theme uses the following external components:
 
 - Papirus Icon Theme
