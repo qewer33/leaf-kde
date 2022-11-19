@@ -1,4 +1,15 @@
+<div align="center">
+
 ## Leaf KDE Plasma Theme
+
+![](https://img.shields.io/static/v1?style=for-the-badge&label=KDE+Plasma&message=Global+Theme&color=blue&logo=kde)
+![](https://img.shields.io/badge/Wayland-Ready-blue?style=for-the-badge&logo=linux)
+![](https://img.shields.io/static/v1?style=for-the-badge&label=KDE%20Store&message=1.7K+%20Downloads&color=blue&logo=kde&logoColor=orange)
+![](https://img.shields.io/static/v1?style=for-the-badge&label=Qt&message=Color+Schemes&color=green&logo=qt)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B8FQ871)
+
+</div>
 
 ![preview.png](https://github.com/qewer33/leaf-kde/blob/main/preview.png?raw=true)
 
@@ -31,6 +42,8 @@ And has the following community themes for other applications:
 - [x] Neovim Color Schemes (leaf.nvim) by @daschw [https://github.com/daschw/leaf.nvim]
 
 - [x] VSCode Themes by @lynithdev [https://github.com/LynithDev/leaf-vscode]
+
+- [x] Kitty Themes by @Kodiak-Web [https://github.com/Kodiak-Web/leaf-kitty]
 
 - [x] Firefox Themes by me [[Dark](https://addons.mozilla.org/en-US/firefox/addon/leaf-dark/)] [[Light](https://addons.mozilla.org/en-US/firefox/addon/leaf-light/)]
 
