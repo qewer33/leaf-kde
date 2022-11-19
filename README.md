@@ -3,8 +3,7 @@
 ## Leaf KDE Plasma Theme
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=KDE+Plasma&message=Global+Theme&color=blue&logo=kde)
-![](https://img.shields.io/badge/Wayland-Ready-blue?style=for-the-badge&logo=linux)
-![](https://img.shields.io/static/v1?style=for-the-badge&label=KDE%20Store&message=1.7K+%20Downloads&color=blue&logo=kde&logoColor=orange)
+![](https://img.shields.io/static/v1?style=for-the-badge&label=KDE%20Store&message=10K+%20Downloads&color=blue&logo=kde&logoColor=orange)
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=Qt&message=Color+Schemes&color=green&logo=qt)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B8FQ871)
