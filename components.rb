@@ -1,8 +1,8 @@
- Component = Struct.new(:name, :path, :install_path)
+Component = Struct.new(:name, :path, :install_path)
 
- THEME_NAME = "Leaf"
+THEME_NAME = "Leaf"
 
- COMPONENTS = [
+COMPONENTS = [
     Component.new("look-and-feel", "./look-and-feel", "#{Dir.home}/.local/share/plasma/look-and-feel"),
     Component.new("desktoptheme", "./desktoptheme", "#{Dir.home}/.local/share/plasma/desktoptheme"),
     Component.new("aurorae", "./aurorae", "#{Dir.home}/.local/share/aurorae/themes"),

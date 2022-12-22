@@ -6,7 +6,7 @@ require 'fileutils'
 COMPONENTS.each do |comp|
     puts "Packaging component: #{comp.name}..."
     puts "Packaging contents of #{comp.path} to ./build/..."
-    # loop over all entriesin the component path
+    # loop over all entries in the component path
     Dir.entries(comp.path).each do |entry|
         if File.directory?("#{comp.path}/#{entry}")
             # zip and move the zipped file to build/ if the entry is a directory
