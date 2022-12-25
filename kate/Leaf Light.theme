@@ -2,37 +2,37 @@
     "custom-styles": {
     },
     "editor-colors": {
-        "BackgroundColor": "#2e2c2f",
-        "BracketMatching": "#656066",
+        "BackgroundColor": "#e1e4dc",
+        "BracketMatching": "#868883",
         "CodeFolding": "#5292c6",
-        "CurrentLine": "#343235",
-        "CurrentLineNumber": "#cbcccf",
-        "IconBorder": "#2e2c2f",
-        "IndentationLine": "#343235",
-        "LineNumbers": "#737576",
+        "CurrentLine": "#c0c3bc",
+        "CurrentLineNumber": "#2e2c2f",
+        "IconBorder": "#e1e4dc",
+        "IndentationLine": "#a3a59f",
+        "LineNumbers": "#625e64",
         "MarkBookmark": "#489ca5",
         "MarkBreakpointActive": "#ba5860",
         "MarkBreakpointDisabled": "#8c6aa8",
         "MarkBreakpointReached": "#ccaa6c",
         "MarkError": "#ba5860",
-        "MarkExecution": "#2e2c2f",
+        "MarkExecution": "#e1e4dc",
         "MarkWarning": "#ccaa6c",
         "ModifiedLines": "#ccaa6c",
         "ReplaceHighlight": "#ccaa6c",
         "SavedLines": "#729b79",
         "SearchHighlight": "#729b79",
-        "Separator": "#333134",
+        "Separator": "#e1e4dc",
         "SpellChecking": "#ba5860",
-        "TabMarker": "#373438",
-        "TemplateBackground": "#2e2c2f",
+        "TabMarker": "#a3a59f",
+        "TemplateBackground": "#e1e4dc",
         "TemplateFocusedPlaceholder": "#729b79",
         "TemplatePlaceholder": "#729b79",
         "TemplateReadOnlyPlaceholder": "#ba5860",
         "TextSelection": "#515051",
-        "WordWrapMarker": "#312f32"
+        "WordWrapMarker": "#afb1ab"
     },
     "metadata": {
-        "name": "Leaf Dark",
+        "name": "Leaf Light",
         "revision": 1
     },
     "text-styles": {
@@ -120,12 +120,12 @@
         },
         "Keyword": {
             "bold": true,
-            "selected-text-color": "#e1e4dc",
-            "text-color": "#e1e4dc"
+            "selected-text-color": "#2e2c2f",
+            "text-color": "#2e2c2f"
         },
         "Normal": {
-            "selected-text-color": "#e1e4dc",
-            "text-color": "#e1e4dc"
+            "selected-text-color": "#2e2c2f",
+            "text-color": "#2e2c2f"
         },
         "Operator": {
             "selected-text-color": "#489ca5",

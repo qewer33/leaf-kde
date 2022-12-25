@@ -9,4 +9,5 @@ COMPONENTS = [
     Component.new("color-schemes", "./color-schemes", "#{Dir.home}/.local/share/color-schemes"),
     Component.new("wallpapers", "./wallpapers", "#{Dir.home}/.local/share/wallpapers"),
     Component.new("konsole-colors", "./konsole", "#{Dir.home}/.local/share/konsole"),
+    Component.new("kate-color-scheme", "./kate", "#{Dir.home}/.local/share/org.kde.syntax-highlighting/themes/"),
 ]
