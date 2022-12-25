@@ -24,19 +24,15 @@ If you like this theme and my work, consider supporting me on Ko-fi!
 
 - [x] Color Schemes (color-schemes) [[Dark](https://store.kde.org/p/1739715)] [[Light](https://store.kde.org/p/1739720)]
 
-- [x] Titlebar Theme (aurorae) [[Dark](https://store.kde.org/p/1739752)] [[Light](https://store.kde.org/p/1739758)] [[Dark Color](https://store.kde.org/p/1748461)] [[Light Color](https://store.kde.org/p/1748463)]
+- [x] Titlebar Themes (aurorae) [[Dark](https://store.kde.org/p/1739752)] [[Light](https://store.kde.org/p/1739758)] [[Dark Color](https://store.kde.org/p/1748461)] [[Light Color](https://store.kde.org/p/1748463)]
 
 - [x] Wallpapers (wallpapers) [[Dark](https://store.kde.org/p/1739944)] [[Light](https://store.kde.org/p/1739945)]
 
 - [x] Latte Dock Layout (latte) [[Layout](https://store.kde.org/p/1740720)]
 
-- [x] Konsole Theme (konsole) [[Dark](https://store.kde.org/p/1741394)] [[Light](https://store.kde.org/p/1741399)]
+- [x] Konsole Themes (konsole) [[Dark](https://store.kde.org/p/1741394)] [[Light](https://store.kde.org/p/1741399)]
 
-- [ ] Cursor Theme (cursors)
-
-- [ ] SDDM Login Theme (sddm)
-
-- [ ] Kate Color Scheme (kate)
+- [x] Kate Color Schemes (kate)
 
 And has the following community themes for other applications:
 
