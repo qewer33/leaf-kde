@@ -6,6 +6,8 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=KDE%20Store&message=10K+%20Downloads&color=blue&logo=kde&logoColor=orange)
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=Qt&message=Color+Schemes&color=green&logo=qt)
 
+If you like this theme and my work, consider supporting me on Ko-fi!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B8FQ871)
 
 </div>
