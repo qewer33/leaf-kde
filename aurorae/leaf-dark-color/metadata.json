@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "qewer@qewer.dev",
+                "Name": "qewer33"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "KWin/Aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Leaf Dark Color",
+        "Description" : "Leaf Dark Color window decorations",
+        "Id": "leaf-dark-color",
+        "Version": "0.2",
+        "License": "GPL-3.0+",
+        "X-KPackage-Dependencies": []
+    }
+}

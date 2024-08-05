@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "qewer@qewer.dev",
+                "Name": "qewer33"
+            }
+        ],
+        "Name": "Leaf Dark Wallpaper",
+        "Id": "leaf-dark-wallpaper",
+        "Version": "0.2",
+        "License": "GPL-3.0+",
+    }
+}
