@@ -2,6 +2,9 @@
 
 ## 🌲 Leaf KDE Plasma Theme
 
+### NOW UPDATED TO PLASMA 6!
+
+
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=KDE+Plasma&message=Global+Theme&color=blue&logo=kde)
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=KDE%20Store&message=11K+%20Downloads&color=blue&logo=kde&logoColor=orange)
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=Qt&message=Color+Schemes&color=green&logo=qt)
@@ -12,27 +15,31 @@ If you like this theme and my work, consider supporting me on Ko-fi!
 
 </div>
 
-![preview](https://github.com/qewer33/leaf-kde/blob/main/assets/preview.png?raw=true)
+![preview](https://github.com/qewer33/leaf-kde/blob/main/assets/preview-plasma6.png?raw=true)
 
 ![color swatches](https://github.com/qewer33/leaf-kde/blob/main/assets/color_swatches.png?raw=true)
 
 **Leaf** is a green accent, forest colored light & dark global theme set for KDE Plasma. It includes the following components:
 
-- [x] Global Themes (look-and-feel) [[Dark](https://store.kde.org/p/1740699)] [[Light](https://store.kde.org/p/1740701)]
+- [x] Global Themes (look-and-feel)
+  - Plasma 5: [[Dark](https://store.kde.org/p/1740699)] [[Light](https://store.kde.org/p/1740701)]
+  - Plasma 6: [[Dark](https://store.kde.org/p/2186340)] [[Light](https://store.kde.org/p/2186341)]
 
 - [x] Plasma Theme (desktoptheme) [[Adaptive](https://store.kde.org/p/1739737)]
 
 - [x] Color Schemes (color-schemes) [[Dark](https://store.kde.org/p/1739715)] [[Light](https://store.kde.org/p/1739720)]
 
-- [x] Titlebar Themes (aurorae) [[Dark](https://store.kde.org/p/1739752)] [[Light](https://store.kde.org/p/1739758)] [[Dark Color](https://store.kde.org/p/1748461)] [[Light Color](https://store.kde.org/p/1748463)]
+- [x] Titlebar Themes (aurorae)
+  - Plasma 5: [[Dark](https://store.kde.org/p/1739752)] [[Light](https://store.kde.org/p/1739758)] [[Dark Color](https://store.kde.org/p/1748461)] [[Light Color](https://store.kde.org/p/1748463)]
+  - Plasma 6: [[Dark](https://store.kde.org/p/2186335)] [[Light](https://store.kde.org/p/2186337)] [[Dark Color](https://store.kde.org/p/2186338)] [[Light Color](https://store.kde.org/p/2186339)]
 
 - [x] Wallpapers (wallpapers) [[Dark](https://store.kde.org/p/1739944)] [[Light](https://store.kde.org/p/1739945)]
-
-- [x] Latte Dock Layout (latte) [[Layout](https://store.kde.org/p/1740720)]
 
 - [x] Konsole Themes (konsole) [[Dark](https://store.kde.org/p/1741394)] [[Light](https://store.kde.org/p/1741399)]
 
 - [x] Kate Color Schemes (kate)
+
+- [x] ~~Latte Dock Layout (latte) [[Layout](https://store.kde.org/p/1740720)]~~
 
 And has the following community themes for other applications:
 
